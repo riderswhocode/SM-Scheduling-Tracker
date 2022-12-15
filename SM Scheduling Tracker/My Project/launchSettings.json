@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SM Scheduling Tracker": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\proje\\source\\repos\\SM Scheduling Tracker\\SM Scheduling Tracker\\bin\\Debug"
+    }
+  }
+}
